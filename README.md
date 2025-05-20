@@ -21,7 +21,7 @@
     alt="GitHub Stats" 
     height="169" 
     style="padding-right: 3px;" 
-    src="https://github-readme-stats.vercel.app/api?username=giovannyenes&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My git stats" 
+    src="https://github-readme-stats.vercel.app/api?username=giovannyenes&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My%20git%20stats" 
   />
 
 <img 
